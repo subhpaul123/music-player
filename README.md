@@ -22,7 +22,7 @@ A simple music player application built with Django. This project allows users t
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.13.2
 - Django 2.2.4 or higher
 - pip (Python package installer)
 
